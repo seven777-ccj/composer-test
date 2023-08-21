@@ -1,0 +1,20 @@
+{
+    "name": "seven777-ccj/composer-test",
+    "description": "composer test",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Seven777Ccj\\ComposerTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "陈晨杰",
+            "email": "chenchenjie163@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.3.0"
+    }
+}
